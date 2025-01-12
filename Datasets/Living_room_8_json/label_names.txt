@@ -1,0 +1,12 @@
+_background_
+den 1
+den 2
+karaoke spearkers
+karaoke spearkers 1
+karaoke spearkers 3
+picture 1
+picture 2
+tree
+tree 1
+tree 3
+tv

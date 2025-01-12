@@ -1,0 +1,9 @@
+_background_
+Elephant
+Giraffe
+Ostrich
+Rhinoceros
+Wild Boar
+Zebra
+lion
+tiger

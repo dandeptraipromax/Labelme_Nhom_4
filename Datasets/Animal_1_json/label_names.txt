@@ -1,0 +1,16 @@
+_background_
+Bear
+Wild Boar
+camel
+carb
+cat
+chicken
+crocodile
+dog
+duck
+elephant
+fox
+gibbon
+hippo
+lion
+wolf

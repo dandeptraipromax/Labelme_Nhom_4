@@ -1,0 +1,6 @@
+_background_
+book
+leaf
+table
+television
+the chair

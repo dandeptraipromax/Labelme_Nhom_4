@@ -1,0 +1,14 @@
+_background_
+ghe
+ghe 1
+ghe 2
+lamp
+lamp 1
+lamps
+picture
+picture 1
+rem
+table
+television
+tree
+tree 1
